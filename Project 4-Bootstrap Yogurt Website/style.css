@@ -1,0 +1,47 @@
+body {
+    background-image: linear-gradient(to bottom right, #00f490, #00bbc9);
+     font-family: 'Open Sans', sans-serif;
+     font-weight: 300;
+}
+
+h1 {
+    font-family: 'Abril Fatface', cursive; 
+}
+
+/*.jumbotron {
+    background-color: rgba(250, 235, 215, 0);
+}*/
+
+.drop-shadow {
+    text-shadow: 0 2px 2px rgba(0, 0, 0, 0.137);
+}
+
+.lead {
+    color: white;
+    font-size: 2.2rem;
+}
+
+.btn-outline-light {
+    border-color: white;
+}
+
+.btn-outline-light:hover {
+    background-color: rgba(255, 255, 255, 0.205);
+}
+
+.btn-primary, .btn-primary:hover {
+    background-color: #00bbc9;
+    border-color: #00bbc9;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+    
+}
+
+.navbar-nav {
+    float: right;
+    /*display: inline;*/
+}
+
+/*mb-2 mb-lg-0   ml-auto*/
